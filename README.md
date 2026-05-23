@@ -45,5 +45,9 @@ through application of a mathematical model to the analysis of
 electropherograms. US Patent 6681186.
 
 # Disclamer
-The tracetuner core engine still remains same I have just made this more compactible with moderns systems and more user friendly by adding a install script and a run script
+The tracetuner core engine still remains same I have just made this more compactible with moderns systems and more user friendly by adding a install script and a run script.
+## I do not maintain trace tuner engine I only maintain compatibility with newer linux and better launch scripts
 ## This application only runs on x86_64-linux-gnu with GCC 16.1.1 and above
+
+# Orgiginal source: 
+https://github.com/uzbit/tracetuner
