@@ -12,12 +12,12 @@ The tracetuner core engine still remains same I have just made this more compact
 ## This application only runs on x86_64-linux-gnu with GCC 16.1.1 and above
 
 # Source Code
-Compiling ttuner from scratch is optional, you may directly download the latest `tracetuner.tar.gz` from the releases section of the github repository
-If you want to compile this from scratch go to the /src folder on your pc and run:
+Compiling ttuner from scratch is optional, you may directly download the latest `tracetuner.tar.gz` from the releases section of the github repository or
+if you want to compile this from scratch go to the *src* folder on your pc and run:
 ```
 make CC="gcc -std=gnu89"
 ```
-# Orgiginal source: 
+# Original source: 
 https://github.com/uzbit/tracetuner
 
 # License
