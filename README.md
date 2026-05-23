@@ -1,5 +1,25 @@
+Author: Manojavya P.M 
+Github: @manojavya
 # tracetuner
 This is a better version of https://github.com/uzbit/tracetuner
+
+# Warning
+Trace Tuner core engine that I have copied from https://github.com/uzbit/tracetuner has not been maintained since 12 years!(as of 23-05-2026 09:24PM IST)
+
+# Disclamer
+The tracetuner core engine still remains same I have just made this more compactible with moderns systems and more user friendly by adding a install script and a run script.
+## I do not maintain trace tuner engine I only maintain compatibility with newer linux and better launch scripts
+## This application only runs on x86_64-linux-gnu with GCC 16.1.1 and above
+
+# Source Code
+Compiling ttuner from scratch is optional, you may directly download the latest `tracetuner.tar.gz` from the releases section of the github repository
+If you want to compile this from scratch go to the /src folder on your pc and run:
+```
+make CC="gcc -std=gnu89"
+```
+# Orgiginal source: 
+https://github.com/uzbit/tracetuner
+
 # License
 This file is part of TraceTuner, the DNA sequencing quality value, base 
 calling and trace processing software. While providing a flexible interface 
@@ -43,12 +63,3 @@ G.A.Denisov, A.B.Arehart and M.D.Curtin (2004). A system and method
 for improving the accuracy of DNA sequencing and error probability estimation
 through application of a mathematical model to the analysis of
 electropherograms. US Patent 6681186.
-# Warning
-Trace Tuner core engine that I have copied from https://github.com/uzbit/tracetuner has not been maintained since 12 years!(as of 23-05-2026 09:24PM IST)
-# Disclamer
-The tracetuner core engine still remains same I have just made this more compactible with moderns systems and more user friendly by adding a install script and a run script.
-## I do not maintain trace tuner engine I only maintain compatibility with newer linux and better launch scripts
-## This application only runs on x86_64-linux-gnu with GCC 16.1.1 and above
-
-# Orgiginal source: 
-https://github.com/uzbit/tracetuner
