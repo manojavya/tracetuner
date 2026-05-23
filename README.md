@@ -44,7 +44,7 @@ for improving the accuracy of DNA sequencing and error probability estimation
 through application of a mathematical model to the analysis of
 electropherograms. US Patent 6681186.
 # Warning
-Trace Tuner core engine that I have copied from https://github.com/uzbit/tracetuner has not been maintained since 12 years!(as of 23-05-2026 09:24PM)
+Trace Tuner core engine that I have copied from https://github.com/uzbit/tracetuner has not been maintained since 12 years!(as of 23-05-2026 09:24PM IST)
 # Disclamer
 The tracetuner core engine still remains same I have just made this more compactible with moderns systems and more user friendly by adding a install script and a run script.
 ## I do not maintain trace tuner engine I only maintain compatibility with newer linux and better launch scripts
