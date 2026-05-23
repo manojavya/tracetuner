@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=4.0
+Type=Application
+Name=Trace Tuner
+Comment=A DNA sequencing application
+Exec=sh -c 'script; echo "Press enter to exit"; read'
+Icon=icon 
+Terminal=true
+Categories=Utility;Application;
+Keywords=ttuner;
