@@ -43,7 +43,8 @@ G.A.Denisov, A.B.Arehart and M.D.Curtin (2004). A system and method
 for improving the accuracy of DNA sequencing and error probability estimation
 through application of a mathematical model to the analysis of
 electropherograms. US Patent 6681186.
-
+# Warning
+Trace Tuner core engine that I have copied from https://github.com/uzbit/tracetuner has not been maintained since 12 years!
 # Disclamer
 The tracetuner core engine still remains same I have just made this more compactible with moderns systems and more user friendly by adding a install script and a run script.
 ## I do not maintain trace tuner engine I only maintain compatibility with newer linux and better launch scripts
